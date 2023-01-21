@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elishafreedman
 - 👀 I’m interested in endosymbiont infections across insects and how they can influence the ecology and evolution of hosts. 
 - 🌱 I’m currently learning implementing ODE models in R
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything biology.
 - 📫 How to reach me: uqefreed@uq.edu.au
 
 <!---
